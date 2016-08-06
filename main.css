@@ -1,0 +1,103 @@
+
+body {
+  font-family:'Lobster',times New Roman;
+  background-color: black;
+  color: white;
+  align-items: center;
+  } 
+
+h1 {
+  font-size: 65px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h4 {
+  margin-bottom: 50px;
+   }
+
+
+p  {
+  font-family: Times New Roman;
+  font-size: 18px;
+  margin-right: 170px;
+  margin-left: 140px;
+}
+
+.button {
+    background-color: slategrey; 
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 235px;
+    margin-top: 30px;
+    cursor: pointer;
+    width: 150px;
+
+}
+
+.button2 {
+    background-color: green; 
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 150px;
+}
+
+.button2:hover {
+  background-color: lightslategrey;
+}
+
+.button3 {
+    background-color: blue; 
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 150px;
+}
+
+.button3:hover {
+  background-color: lightslategrey;
+}
+
+.button4 {
+    background-color: red; /* red */
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 150px;
+  }
+
+.button4:hover {
+  background-color: lightslategrey;
+}
+
+.button {
+  background-color: slategrey;
+}
+
+.button:hover {
+  background-color: lightslategrey;
+}
